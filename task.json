@@ -1,1 +1,1 @@
-[{"task": "cooking", "done": true}, {"task": "exercise", "done": true}, {"task": "learning", "done": false}, {"task": "meeting", "done": false}, {"task": "take a bath", "done": false}, {"task": "sleep (optional)", "done": false}]
+[{"task": "cooking", "done": true}, {"task": "exercise", "done": true}, {"task": "learning", "done": true}, {"task": "meeting", "done": false}, {"task": "dinner", "done": false}]
