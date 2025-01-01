@@ -25,10 +25,13 @@
 ---
 
 
-## Demo
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/2I7X0HTU0i0" type="video/mp4">
-</video>
+## Demo Video 🎥
+
+Here is the demo video of my project:
+
+https://github.com/user-attachments/assets/13c36e6e-b8fb-4344-9de1-7268cb92fa22
+
+
 
 
   
