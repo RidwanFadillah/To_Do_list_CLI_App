@@ -17,6 +17,8 @@
    ```bash
    git clone https://github.com/RidwanFadillah/To_Do_list_CLI_App.git
    ```
-2. run main.py
-   ``` python main.py ```
+2. run main.py :
+   ```bash
+   python main.py
+   ```
   
